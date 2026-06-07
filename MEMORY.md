@@ -30,4 +30,5 @@
 - [VLESS 私人代理](project_vless_proxy.md) — 自建 Vultr 东京 VLESS+Reality;Win 用 v2rayN;备忘在桌面(含密钥,敏感)
 - [RC 飙速车(当前主项目)](project_rc_speedcar.md) — 2026夏动手主项目;1/10 触地车散件自装,目标60-80km/h,~$280,在 `C:\Project\RC-SpeedCar`
 - [Pi 4 自建小服务器](project_pihole.md) — 原计划Pi-hole已改向;CanaKit Pi4 2GB套件($145,6/6到货)做Docker家庭服务器(Vaultwarden/Gitea/Tailscale等),在 `C:\Project\PiServer`
+- [记忆 git 同步](reference_memory_git_sync.md) — 记忆目录做成 GitHub **private** 库 `Jimmyyu725/claude-memory`,jimmypi+pi4gb 已接入,Windows 待接;改前 pull、改后 push
 - [邮箱别名方案](reference_email_alias.md) — 自有域名 `jimmyyu888.com`(Cloudflare)做 catch-all,`任意@jimmyyu888.com`→转发到 Gmail;只收不发,双向对话用 DuckDuckGo
