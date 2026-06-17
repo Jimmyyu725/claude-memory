@@ -21,6 +21,7 @@
 - [项目代码统一存放](feedback_project_code_location.md) — `C:\Project` 是默认/兜底落点(短名子文件夹);Unity 等有自己工程目录的程序用其默认位置、Claude Code 配置、用户指定路径除外
 - [工作流子 agent 联网会被拒](feedback_workflow_subagent_tools.md) — 后台自主模式下子 agent 的 WebSearch/WebFetch 会被自动拒绝而卡死;联网核验在主线程做,子 agent 只派只读任务
 - [浏览器自动化默认走 9222](feedback_browser_via_cdp_9222.md) — 任何浏览器自动化/搜索连常驻 chrome-cdp(127.0.0.1:9222),不新开 Chrome;要登录态用默认上下文,不可信浏览用隔离 incognito 上下文用完即关
+- [新项目默认先 brainstorm](feedback_superpowers_brainstorm_default.md) — 开始新项目/新功能/较大改动前自动用 `superpowers:brainstorming` 理清意图再动手,后接 plan→TDD→verify;小修小补/问答不必
 
 ## 项目与参考
 
